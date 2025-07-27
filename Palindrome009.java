@@ -19,7 +19,7 @@ class CheckPalindrome {
     }
 }
 
-public class Problem_009_Palindrome {
+public class Palindrome009 {
     public static void main(String[] args) {
         int x = 121;
         boolean result = CheckPalindrome.isPalindrome(x);
