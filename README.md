@@ -62,7 +62,7 @@ I'm committed to a consistent learning schedule, dedicating daily time to unders
 
 I'm always open to feedback, discussions, or new problem-solving challenges. Feel free to:
 
-* **Connect on LinkedIn:** []
-* **Reach out via Email:** [Your Email Address]
+* **Connect on LinkedIn:** [https://www.linkedin.com/in/abdh0asa/]
+* **Reach out via Email:** [abdhasa991@gmail.com]
 
 Happy coding!
